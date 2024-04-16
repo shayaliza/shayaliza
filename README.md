@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello, code champ! welcome to my GitHub.<br>I'm a passionate developer currently working on Nextjs.<br>On my page, you'll find personal project and open source software.<br>I love building innovative solutions to real-world problems.<br>I'm always looking to collaborate and learn from others, <br>so feel free to reach out if you're interested in working together!
+# 💫 I , Me & Myself
+Hello, Algorithmic puppet! <br>Again the same road old path.<br>world is boring lets meet at heaven✨
 
 
 ## 🌐 Socials:
