@@ -13,9 +13,15 @@ Hello, Algorithmic puppet! <br>Again the same road old path.<br>world is boring 
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shayaliza&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shayaliza&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayaliza&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/shayaliza">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayaliza&theme=rose&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,prs&icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayaliza&layout=pie&theme=rose&border_radius=5" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayaliza&theme=rose&hide_border=false" />
+</a>
 
 <!--   ## 💰 You can help me by Donating -->
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shayaliza) 
