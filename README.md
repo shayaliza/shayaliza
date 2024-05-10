@@ -13,14 +13,10 @@ Hello, Algorithmic puppet! <br>Again the same road old path.<br>world is boring 
 </p>
 
 # 📊 GitHub Stats:
-<a href="https://github.com/shayaliza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayaliza&theme=rose&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,prs&icons=true&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+<a href="https://github.com/shayaliza" align="center" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayaliza&layout=pie&theme=rose&border_radius=5" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayaliza&theme=rose&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayaliza&theme=rose&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,prs&icons=true&rank_icon=github" />
 </a>
 
 <!--   ## 💰 You can help me by Donating -->
