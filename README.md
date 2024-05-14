@@ -1,7 +1,16 @@
-![](https://komarev.com/ghpvc/?username=shayaliza)
-# 💫 I , Me & Myself
-Hello, Algorithmic puppet! <br>Again the same road old path.<br>world is boring lets meet at heaven✨
+   # 💫 I, Me & Myself
 
+
+
+Hello, Algorithmic puppet! <br>
+Again the same old road path.<br>
+World is boring, let's meet at heaven ✨
+
+  <div style="display: inline-block; text-align: right;">
+   
+   ![](https://komarev.com/ghpvc/?username=shayaliza)
+    
+  </div>
 # 💻Stacks
 <p align="center">
  <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,js,ts" />
