@@ -36,4 +36,5 @@ World is boring, let's meet at heaven ✨
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayaliza&theme=rose&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,prs&icons=true&rank_icon=github" />
 </p>
 
+[![Shayaliza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shayaliza&theme=tokyo-night)](https://github.com/shayaliza/github-readme-activity-graph)
 
